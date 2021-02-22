@@ -1,0 +1,31 @@
+
+      h1 {
+        font-size: 65px;
+        color: orange;
+        font-family: sans-serif;
+      }
+      ul {
+        background-color: teal;
+      }
+      .paralist {
+        background-color:rgb(230, 255, 249);
+      }
+      p {
+        font-weight: 600;
+        font-size: 3em;
+        text-decoration-line: underline;
+        text-decoration-color: blue;
+      }
+      body {
+        font-size: 16px;
+        background-color: rgb(240, 240, 240);
+      }
+      #lista {
+        font-style: italic;
+        font-size: 1.5em;
+        line-height: 40px; l
+      }
+
+      #ama { background-color: yelow;}
+      #ver { background-color: red;}
+      #mar { background-color: rgb(153, 65, 0);}
